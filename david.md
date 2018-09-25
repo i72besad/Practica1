@@ -32,13 +32,13 @@ Listado de la configuración:
 
 	git config --global color.ui true
 
-#0.3 Uso básico
+# 0.3 Uso básico
 
-##Los tres estados de Git
+## Los tres estados de Git
 
 ![Local Operations](http://1.bp.blogspot.com/-0ESPAhDYGQ4/ThMfRvj9FGI/AAAAAAAAAMM/Gifzuv9wwEA/s1600/git%2Blocal%2Boperations.jpg)
 
-##Comandos básicos I
+## Comandos básicos I
 
 Iniciar repositorio en un directorio:
 
@@ -60,7 +60,7 @@ Historial de commits:
 
 	git log
 
-##Comandos básicos II
+## Comandos básicos II
 
 Ayuda del listado anterior:
 
@@ -82,7 +82,7 @@ Ver cambios en el directorio:
 
 	git status
 
-##Comandos básicos III
+## Comandos básicos III
 
 Ver diferencia entre ficheros en el directorio y el repositorio de git:
 
