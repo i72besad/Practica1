@@ -76,6 +76,8 @@ Comparar dos commits:
 Es la forma para separar la l´ınea actual de desarrollo con respecto a la principal. Normalmente
 representan versiones del software que posteriormente son integradas a la línea principal.
 
+![Imagen de Ramas o Branches](https://i.stack.imgur.com/mvLUy.png)
+
 ## Comandos Ramas I
 
 Ver listado de ramas:
