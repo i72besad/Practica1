@@ -87,8 +87,7 @@ Clonar un repositorio remoto:
 	2. Commit de los cambios.
 	3. Añadir cambios a repostorio remoto:
 	
-
-		git push
+			git push
 
 		
 * REMOTO->LOCAL
@@ -114,7 +113,7 @@ Clonar un repositorio remoto:
 	3. Hacer commit
 	4. Copiar el branch al repositorio remoto:
 		
-		git push -u origin branch_remoto
+			git push -u origin branch_remoto
 
 * Copia:
 		
