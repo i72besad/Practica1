@@ -1,0 +1,8 @@
+En la rama master
+
+Confirmación inicial
+
+Archivos sin seguimiento:
+	texto1.txt
+
+no hay nada agregado para confirmar, pero hay archivos sin seguimiento presentes
