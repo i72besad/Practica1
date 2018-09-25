@@ -88,22 +88,18 @@ Clonar un repositorio remoto:
 	3. Añadir cambios a repostorio remoto:
 	
 			git push
-
 		
 * REMOTO->LOCAL
 	
 	* Sincronización y unión:
 	
-		
-		git fetch origin
-		git merge origin/master
+			git fetch origin
+			git merge origin/master
 
 
 	* En un solo paso:
 	
-		
-		git pull
-
+			git pull
 
 **Operaciones con *branches* remotos**
 
